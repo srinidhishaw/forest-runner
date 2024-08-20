@@ -1,0 +1,24 @@
+# Qt Creator specific files
+.pro.user
+.pro.user.*
+.qmake.stash
+.pro.autosave
+*.pro.user
+
+# Compiled binary files
+*.o
+*.so
+*.a
+*.exe
+*.dll
+
+# Generated files
+moc_*
+ui_*
+qrc_*
+
+# Build directories
+build-*/
+
+# Qt Creator caches
+.qmake.cache
